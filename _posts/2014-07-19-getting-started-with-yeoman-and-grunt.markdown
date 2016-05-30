@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with Yeoman & Grunt"
 date:   2014-07-19 04:10:49
-categories: Developer Workflow
+categories:  Workflow
 banner_image: "/media/desk.jpg"
 featured: true
 comments: true
